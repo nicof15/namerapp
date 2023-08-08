@@ -18,7 +18,7 @@ The Namer App is a simple and fun application that generates unique names by com
 
 The Namer App is currently available for Android and iOS platforms. You can install it by following these steps:
 
-1. Download the APK from the [GitHub Releases](https://github.com/nicof15/namerapp/readme-assets/namerapp.apk) page.
+1. Download the APK from the [here](https://github.com/nicof15/namerapp/readme-assets/namerapp.apk).
 
 2. Install the app on your Android device.
 
